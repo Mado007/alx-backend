@@ -5,7 +5,12 @@
 - 0x01-caching
 - 0x02-i18n
 - Queue System
---- 
+
+
+## Author
+
+- [Mahmoud Eid](https://github.com/Mado007)
+
 
 ## License
 
